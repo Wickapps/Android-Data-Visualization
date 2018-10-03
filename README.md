@@ -1,13 +1,13 @@
 # Android-Data-Visualization
-This project is covered in the book:
+This project is covered in chapter 2 of the book:
 
 ![](fig-cover-sm.jpg)
 
 https://www.apress.com/us/book/9781484239506
 # About the Project
-Intro.
+The projects extends the D3 visualization approach covered earlier and shows how to create D3 visualizations targetted for the Android platform.
 
-# More
+# Project References
 Project Name: Android Data Visualization
 
 Source: **android_data_vis.zip** or **github.com/wickapps/Android-Data-Visualization** 
