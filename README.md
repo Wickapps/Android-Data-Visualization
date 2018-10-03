@@ -1,5 +1,5 @@
 # Android-Data-Visualization
-This project is covered in chapter 2 of the [book](https://www.apress.com/us/book/9781484239506):
+This project is covered in detail in chapter 2 of the [book](https://www.apress.com/us/book/9781484239506):
 
 ![](fig-cover-sm.jpg)
 
